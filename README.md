@@ -1,6 +1,5 @@
-# myapp
-
-A new Flutter project.
+#primeiro programa
+primeira parte do trabalho referente a disciplina 11 do Talento Tech
 
 ## Getting Started
 
